@@ -12,8 +12,8 @@ const PRODUCT_RESOLVERS = {
         }
     },
     Mutation: {
-        updateProductName: async (_, {id, name}, { token }) => {
-            if (token !== "Bearer admin") {
+        updateProductName: async (parent, {id, name},  context) => {
+            if (context.role !== "admin") {
                 console.log("Unauthorized action");
                 return;
             }
