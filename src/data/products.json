@@ -1,0 +1,722 @@
+[
+    {
+        "id": "1",
+        "name": "Wireless Headphones",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Headphones",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Headphones",
+        "categoryId": "1"
+    },
+    {
+        "id": "2",
+        "name": "Men's Leather Jacket",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Leather+Jacket",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Leather+Jacket",
+        "categoryId": "2"
+    },
+    {
+        "id": "3",
+        "name": "Garden Tool Set",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Garden+Tool+Set",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Garden+Tool+Set",
+        "categoryId": "3"
+    },
+    {
+        "id": "4",
+        "name": "Organic Skincare Set",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Organic+Skincare+Set",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Organic+Skincare+Set",
+        "categoryId": "4"
+    },
+    {
+        "id": "5",
+        "name": "Yoga Mat",
+        "price": 25.99,
+        "image": "https://via.placeholder.com/150.png?text=Yoga+Mat",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Yoga+Mat",
+        "categoryId": "5"
+    },
+    {
+        "id": "6",
+        "name": "Board Game",
+        "price": 34.99,
+        "image": "https://via.placeholder.com/150.png?text=Board+Game",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Board+Game",
+        "categoryId": "6"
+    },
+    {
+        "id": "7",
+        "name": "Car Vacuum Cleaner",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Car+Vacuum+Cleaner",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Car+Vacuum+Cleaner",
+        "categoryId": "7"
+    },
+    {
+        "id": "8",
+        "name": "Fiction Novel",
+        "price": 14.99,
+        "image": "https://via.placeholder.com/150.png?text=Fiction+Novel",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Fiction+Novel",
+        "categoryId": "8"
+    },
+    {
+        "id": "9",
+        "name": "Diamond Ring",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/150.png?text=Diamond+Ring",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Diamond+Ring",
+        "categoryId": "9"
+    },
+    {
+        "id": "10",
+        "name": "Gourmet Coffee Beans",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Gourmet+Coffee+Beans",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Gourmet+Coffee+Beans",
+        "categoryId": "10"
+    },
+    {
+        "id": "11",
+        "name": "Smartwatch",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150.png?text=Smartwatch",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smartwatch",
+        "categoryId": "1"
+    },
+    {
+        "id": "12",
+        "name": "Women's Handbag",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Women's+Handbag",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Women's+Handbag",
+        "categoryId": "2"
+    },
+    {
+        "id": "13",
+        "name": "Outdoor String Lights",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Outdoor+String+Lights",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Outdoor+String+Lights",
+        "categoryId": "3"
+    },
+    {
+        "id": "14",
+        "name": "Bluetooth Speaker",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Bluetooth+Speaker",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Bluetooth+Speaker",
+        "categoryId": "1"
+    },
+    {
+        "id": "15",
+        "name": "Fitness Tracker",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Fitness+Tracker",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Fitness+Tracker",
+        "categoryId": "1"
+    },
+    {
+        "id": "16",
+        "name": "Coffee Maker",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Coffee+Maker",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Coffee+Maker",
+        "categoryId": "3"
+    },
+    {
+        "id": "17",
+        "name": "Travel Backpack",
+        "price": 69.99,
+        "image": "https://via.placeholder.com/150.png?text=Travel+Backpack",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Travel+Backpack",
+        "categoryId": "2"
+    },
+    {
+        "id": "18",
+        "name": "Electric Kettle",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Kettle",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Kettle",
+        "categoryId": "3"
+    },
+    {
+        "id": "19",
+        "name": "Wireless Mouse",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Mouse",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Mouse",
+        "categoryId": "1"
+    },
+    {
+        "id": "20",
+        "name": "Portable Charger",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Charger",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Charger",
+        "categoryId": "1"
+    },
+    {
+        "id": "21",
+        "name": "Smart LED Bulb",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Smart+LED+Bulb",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smart+LED+Bulb",
+        "categoryId": "1"
+    },
+    {
+        "id": "22",
+        "name": "Men's Running Shoes",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Running+Shoes",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Running+Shoes",
+        "categoryId": "2"
+    },
+    {
+        "id": "23",
+        "name": "Electric Toothbrush",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Toothbrush",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Toothbrush",
+        "categoryId": "4"
+    },
+    {
+        "id": "24",
+        "name": "Camping Tent",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150.png?text=Camping+Tent",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Camping+Tent",
+        "categoryId": "5"
+    },
+    {
+        "id": "25",
+        "name": "Wireless Charger",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Charger",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Charger",
+        "categoryId": "1"
+    },
+    {
+        "id": "26",
+        "name": "Pet Grooming Kit",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Pet+Grooming+Kit",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Pet+Grooming+Kit",
+        "categoryId": "4"
+    },
+    {
+        "id": "27",
+        "name": "Portable Bluetooth Speaker",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Bluetooth+Speaker",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Bluetooth+Speaker",
+        "categoryId": "1"
+    },
+    {
+        "id": "28",
+        "name": "Travel Pillow",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Travel+Pillow",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Travel+Pillow",
+        "categoryId": "2"
+    },
+    {
+        "id": "29",
+        "name": "Fitness Resistance Bands",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/150.png?text=Fitness+Resistance+Bands",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Fitness+Resistance+Bands",
+        "categoryId": "5"
+    },
+    {
+        "id": "30",
+        "name": "Air Fryer",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150.png?text=Air+Fryer",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Air+Fryer",
+        "categoryId": "3"
+    },
+    {
+        "id": "31",
+        "name": "Men's Casual Sneakers",
+        "price": 69.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Casual+Sneakers",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Casual+Sneakers",
+        "categoryId": "2"
+    },
+    {
+        "id": "32",
+        "name": "Wireless Earbuds",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Earbuds",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Earbuds",
+        "categoryId": "1"
+    },
+    {
+        "id": "33",
+        "name": "Stainless Steel Water Bottle",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Stainless+Steel+Water+Bottle",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Stainless+Steel+Water+Bottle",
+        "categoryId": "3"
+    },
+    {
+        "id": "34",
+        "name": "Smartphone Stand",
+        "price": 14.99,
+        "image": "https://via.placeholder.com/150.png?text=Smartphone+Stand",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smartphone+Stand",
+        "categoryId": "1"
+    },
+    {
+        "id": "35",
+        "name": "Electric Grill",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Grill",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Grill",
+        "categoryId": "3"
+    },
+    {
+        "id": "36",
+        "name": "Kids' Bicycle",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Bicycle",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Bicycle",
+        "categoryId": "6"
+    },
+    {
+        "id": "37",
+        "name": "Portable Blender",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Blender",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Blender",
+        "categoryId": "3"
+    },
+    {
+        "id": "38",
+        "name": "Wall Art Canvas",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Wall+Art+Canvas",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wall+Art+Canvas",
+        "categoryId": "4"
+    },
+    {
+        "id": "39",
+        "name": "Smart Thermostat",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150.png?text=Smart+Thermostat",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smart+Thermostat",
+        "categoryId": "1"
+    },
+    {
+        "id": "40",
+        "name": "Luxury Bathrobe",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150.png?text=Luxury+Bathrobe",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Luxury+Bathrobe",
+        "categoryId": "4"
+    },
+    {
+        "id": "41",
+        "name": "Electric Pressure Cooker",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Pressure+Cooker",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Pressure+Cooker",
+        "categoryId": "3"
+    },
+    {
+        "id": "42",
+        "name": "Men's Sports Watch",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Sports+Watch",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Sports+Watch",
+        "categoryId": "1"
+    },
+    {
+        "id": "43",
+        "name": "Wireless Gaming Mouse",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Gaming+Mouse",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Gaming+Mouse",
+        "categoryId": "1"
+    },
+    {
+        "id": "44",
+        "name": "Insulated Lunch Bag",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Insulated+Lunch+Bag",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Insulated+Lunch+Bag",
+        "categoryId": "3"
+    },
+    {
+        "id": "45",
+        "name": "Smartphone Camera Lens",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Smartphone+Camera+Lens",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smartphone+Camera+Lens",
+        "categoryId": "1"
+    },
+    {
+        "id": "46",
+        "name": "Men's Casual Shirt",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Casual+Shirt",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Casual+Shirt",
+        "categoryId": "2"
+    },
+    {
+        "id": "47",
+        "name": "Electric Wine Opener",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Wine+Opener",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Wine+Opener",
+        "categoryId": "3"
+    },
+    {
+        "id": "48",
+        "name": "Kids' Educational Tablet",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Educational+Tablet",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Educational+Tablet",
+        "categoryId": "6"
+    },
+    {
+        "id": "49",
+        "name": "Portable Air Purifier",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Air+Purifier",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Air+Purifier",
+        "categoryId": "4"
+    },
+    {
+        "id": "50",
+        "name": "Multi-Function Tool Set",
+        "price": 34.99,
+        "image": "https://via.placeholder.com/150.png?text=Multi-Function+Tool+Set",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Multi-Function+Tool+Set",
+        "categoryId": "3"
+    },
+    {
+        "id": "51",
+        "name": "Wireless Home Security Camera",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Home+Security+Camera",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Home+Security+Camera",
+        "categoryId": "1"
+    },
+    {
+        "id": "52",
+        "name": "Men's Hiking Boots",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Hiking+Boots",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Hiking+Boots",
+        "categoryId": "2"
+    },
+    {
+        "id": "53",
+        "name": "Smart Fitness Scale",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Smart+Fitness+Scale",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smart+Fitness+Scale",
+        "categoryId": "5"
+    },
+    {
+        "id": "54",
+        "name": "Portable Phone Charger",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Phone+Charger",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Phone+Charger",
+        "categoryId": "1"
+    },
+    {
+        "id": "55",
+        "name": "Luxury Scented Candles",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Luxury+Scented+Candles",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Luxury+Scented+Candles",
+        "categoryId": "4"
+    },
+    {
+        "id": "56",
+        "name": "Digital Photo Frame",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Digital+Photo+Frame",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Digital+Photo+Frame",
+        "categoryId": "1"
+    },
+    {
+        "id": "57",
+        "name": "Men's Wallet",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Wallet",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Wallet",
+        "categoryId": "2"
+    },
+    {
+        "id": "58",
+        "name": "Electric Kettle",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Kettle",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Kettle",
+        "categoryId": "3"
+    },
+    {
+        "id": "59",
+        "name": "Kids' Art Supplies Set",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Art+Supplies+Set",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Art+Supplies+Set",
+        "categoryId": "6"
+    },
+    {
+        "id": "60",
+        "name": "Home Office Desk",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150.png?text=Home+Office+Desk",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Home+Office+Desk",
+        "categoryId": "4"
+    },
+    {
+        "id": "61",
+        "name": "Smart Doorbell",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150.png?text=Smart+Doorbell",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smart+Doorbell",
+        "categoryId": "1"
+    },
+    {
+        "id": "62",
+        "name": "Men's Dress Shoes",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Dress+Shoes",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Dress+Shoes",
+        "categoryId": "2"
+    },
+    {
+        "id": "63",
+        "name": "Wireless Home Speaker",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Home+Speaker",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Home+Speaker",
+        "categoryId": "1"
+    },
+    {
+        "id": "64",
+        "name": "Non-Stick Cookware Set",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150.png?text=Non-Stick+Cookware+Set",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Non-Stick+Cookware+Set",
+        "categoryId": "3"
+    },
+    {
+        "id": "65",
+        "name": "Portable Projector",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Projector",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Projector",
+        "categoryId": "1"
+    },
+    {
+        "id": "66",
+        "name": "Men's Casual Shorts",
+        "price": 34.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Casual+Shorts",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Casual+Shorts",
+        "categoryId": "2"
+    },
+    {
+        "id": "67",
+        "name": "Electric Griddle",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Griddle",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Griddle",
+        "categoryId": "3"
+    },
+    {
+        "id": "68",
+        "name": "Kids' Building Blocks",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Building+Blocks",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Building+Blocks",
+        "categoryId": "6"
+    },
+    {
+        "id": "69",
+        "name": "Smartphone Tripod",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Smartphone+Tripod",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smartphone+Tripod",
+        "categoryId": "1"
+    },
+    {
+        "id": "70",
+        "name": "Luxury Throw Blanket",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Luxury+Throw+Blanket",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Luxury+Throw+Blanket",
+        "categoryId": "4"
+    },
+    {
+        "id": "71",
+        "name": "Men's Beanie",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Beanie",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Beanie",
+        "categoryId": "2"
+    },
+    {
+        "id": "72",
+        "name": "Portable Bluetooth Keyboard",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Bluetooth+Keyboard",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Bluetooth+Keyboard",
+        "categoryId": "1"
+    },
+    {
+        "id": "73",
+        "name": "Ceramic Cookware Set",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150.png?text=Ceramic+Cookware+Set",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Ceramic+Cookware+Set",
+        "categoryId": "3"
+    },
+    {
+        "id": "74",
+        "name": "Kids' Puzzle Game",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Puzzle+Game",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Puzzle+Game",
+        "categoryId": "6"
+    },
+    {
+        "id": "75",
+        "name": "Smartphone Holder for Car",
+        "price": 14.99,
+        "image": "https://via.placeholder.com/150.png?text=Smartphone+Holder+for+Car",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smartphone+Holder+for+Car",
+        "categoryId": "1"
+    },
+    {
+        "id": "76",
+        "name": "Luxury Bath Towels",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Luxury+Bath+Towels",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Luxury+Bath+Towels",
+        "categoryId": "4"
+    },
+    {
+        "id": "77",
+        "name": "Men's Sunglasses",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Sunglasses",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Sunglasses",
+        "categoryId": "2"
+    },
+    {
+        "id": "78",
+        "name": "Electric Hot Pot",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Hot+Pot",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Hot+Pot",
+        "categoryId": "3"
+    },
+    {
+        "id": "79",
+        "name": "Kids' Scooter",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Scooter",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Scooter",
+        "categoryId": "6"
+    },
+    {
+        "id": "80",
+        "name": "Wireless Charging Pad",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Charging+Pad",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Charging+Pad",
+        "categoryId": "1"
+    },
+    {
+        "id": "81",
+        "name": "Smart LED Strip Lights",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150.png?text=Smart+LED+Strip+Lights",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smart+LED+Strip+Lights",
+        "categoryId": "1"
+    },
+    {
+        "id": "82",
+        "name": "Men's Cargo Shorts",
+        "price": 34.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Cargo+Shorts",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Cargo+Shorts",
+        "categoryId": "2"
+    },
+    {
+        "id": "83",
+        "name": "Electric Food Steamer",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Food+Steamer",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Food+Steamer",
+        "categoryId": "3"
+    },
+    {
+        "id": "84",
+        "name": "Kids' Art Easel",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Art+Easel",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Art+Easel",
+        "categoryId": "6"
+    },
+    {
+        "id": "85",
+        "name": "Portable Mini Fridge",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150.png?text=Portable+Mini+Fridge",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Portable+Mini+Fridge",
+        "categoryId": "3"
+    },
+    {
+        "id": "86",
+        "name": "Men's Athletic Socks",
+        "price": 14.99,
+        "image": "https://via.placeholder.com/150.png?text=Men's+Athletic+Socks",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Men's+Athletic+Socks",
+        "categoryId": "2"
+    },
+    {
+        "id": "87",
+        "name": "Smartphone Camera Stabilizer",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150.png?text=Smartphone+Camera+Stabilizer",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Smartphone+Camera+Stabilizer",
+        "categoryId": "1"
+    },
+    {
+        "id": "88",
+        "name": "Electric Kettle with Temperature Control",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150.png?text=Electric+Kettle+with+Temperature+Control",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Electric+Kettle+with+Temperature+Control",
+        "categoryId": "3"
+    },
+    {
+        "id": "89",
+        "name": "Kids' Balance Bike",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150.png?text=Kids'+Balance+Bike",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Kids'+Balance+Bike",
+        "categoryId": "6"
+    },
+    {
+        "id": "90",
+        "name": "Wireless Earphone Case",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150.png?text=Wireless+Earphone+Case",
+        "mockup": "https://via.placeholder.com/300x200.png?text=Mockup+of+Wireless+Earphone+Case",
+        "categoryId": "1"
+    }
+]
