@@ -1,6 +1,6 @@
-import { gpl } from 'apollo-server-express';
+import { gql } from "apollo-server-express";
 
-const productSchema = gpl`
+const PRODUCT_SCHEMA = gql`
   type Product {
     id: ID!
     name: String!
@@ -14,7 +14,7 @@ const productSchema = gpl`
 
   type Mutation {
     updateProductName(id: ID!, name: String!): Product!
-  }s
+  }
 `;
 
-export default productSchema;
+export default PRODUCT_SCHEMA;

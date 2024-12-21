@@ -17,6 +17,7 @@
     "fs": "^0.0.1-security",
     "graphql": "^16.10.0",
     "jsonwebtoken": "^9.0.2",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.2"
   }
 }

@@ -1,19 +1,37 @@
-// server.js
 import express from 'express';
-import { ApolloServer } from 'apollo-server-express';
-import { typeDefs, resolvers } from './src/graphql/index.js'; // Adjust the import based on your structure
+import dotenv from 'dotenv';
+
+import C_SERVICE from './src/services/categoryService.js';
+import P_SERVICE from './src/services/productService.js';
+import AUTH_MIDDLEWARE from './src/middleware/auth.js';
+import GETWAY from './src/getway/index.js';
+
+
+dotenv.config();
+
+const PORT = process.env.PORT || 4000;
+const P_SERVICE_PORT = process.env.PRODUCT_SERVICE_PORT || 4001;
+const C_SERVICE_PORT = process.env.CATEGORY_SERVICE_PORT || 4002;
 
 const app = express();
-const server = new ApolloServer({ typeDefs, resolvers });
+app.use(AUTH_MIDDLEWARE);
 
-// Middleware
-app.use(express.json());
+P_SERVICE.start().then(res => {
+    P_SERVICE.applyMiddleware({ app, path: '/graphql', cors: true });
+    console.log(`Product service ready at http://localhost:${P_SERVICE_PORT}/graphql`);
+});
 
-// Apply Apollo GraphQL middleware
-server.applyMiddleware({ app });
+C_SERVICE.start().then(res => {
+    C_SERVICE.applyMiddleware({ app, path: '/graphql', cors: true });
+    console.log(`Category service ready at http://localhost:${C_SERVICE_PORT}/graphql`);
+});
 
-const PORT = process.env.PORT;
+GETWAY.start().then(res => {
+    GETWAY.applyMiddleware({ app, path: '/graphql', cors: true });
+    console.log(`Gateway ready at http://localhost:${PORT}/graphql`);
+});
+
 
 app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}${server.graphqlPath}`);
+    console.log(`Server is running on http://localhost:${PORT}`);
 });
